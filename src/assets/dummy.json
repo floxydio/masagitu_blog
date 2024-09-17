@@ -1,0 +1,12 @@
+{
+    "id_blog": 1,
+    "title": "Selamat Datang di MasaGitu Blog",
+    "desc": "<p>Blog yang dimana tempat kalian sharing cerita apapun tentang teknologi, cerita galau atau apapun kek wkwkw, asal jangan yang aneh aneh yaaa ges :D</p><p>disini ibaratkan kayak medium kedepannya tergantung rame nya blog ini, blog ini kubuat menggunakan Vue.js 3 dan juga Tailwind.&nbsp;</p><p>Untuk repository nya ku buat public siapa tau ada yang mau bantu kembangin :D</p><p><br></p><p>Regards,</p><p><br></p><p>Bang Dio ~</p>",
+    "short_desc": "<p><br></p><p>Blog yang dimana tempat kalian sharing cerita apapun tentang teknologi, cerita galau atau apapun kek wkwkw, asal jangan yang aneh aneh yaaa ges :D</p>",
+    "image_url": null,
+    "image_asset": "./assets/bg-home.jpg",
+    "img_base64": null,
+    "category": "welcome",
+    "author": "Dio Okta R",
+    "created_at": "17-09-2024"
+}
